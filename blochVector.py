@@ -1,5 +1,6 @@
 import numpy as np
-
+from qiskit.visualization import plot_bloch_vector
+import matplotlib.pyplot as plt
 
 class BlochVector:
     def __init__(self, rabi_freq, init_state=None):
@@ -45,3 +46,7 @@ class BlochVector:
         ])
 
         self.state = r @ self.state
+
+    def display(self):
+        plot_bloch_vector(self.get_state(), title="Bloch Sphere")
+        plt.show()
