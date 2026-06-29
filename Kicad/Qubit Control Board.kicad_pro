@@ -416,7 +416,7 @@
         "uuid": "d02a9e30-46b8-444a-9e12-1a93fb154b6d"
       }
     ],
-    "used_designators": "U1-2",
+    "used_designators": "RDIV2,U1-2,RDIFF5,CD28-29,CCQP1,CCDAC2,RIPF1,#PWR62",
     "variants": []
   },
   "sheets": [
