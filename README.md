@@ -23,14 +23,6 @@ This project is a hardware and FPGA control system for producing shaped control 
 - Keep the design modular and testable
 - Document RF layout, DAC interfacing, FPGA control, and signal integrity design
 
-## Repository Structure
-
-SuperconductingQubitControlBoard/
-- FPGA/ — Verilog, constraints, and Vivado files
-- PCB/ — KiCad schematic, PCB layout, symbols, and footprints
-- Docs/ — Notes, datasheets, and design references
-- README.md
-
 ## Current Status
 
 This project is currently in development. The main focus is schematic design, PCB layout, FPGA communication, and validating the signal chain from the FPGA to the RF output.
