@@ -6150,6 +6150,12 @@
 		(uuid "0001a3ed-5745-46c8-b589-3ed785c60ef0")
 	)
 	(junction
+		(at 416.56 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0083b8d5-4a91-4e8c-971d-166268e8f029")
+	)
+	(junction
 		(at 152.4 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6348,6 +6354,12 @@
 		(uuid "343957d3-4f4e-4cb5-8a46-8f3e80a214d1")
 	)
 	(junction
+		(at 515.62 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35f4b2da-c677-4c11-98f3-31bdf753b3ef")
+	)
+	(junction
 		(at 251.46 314.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6418,6 +6430,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "598f42c5-c27a-43ef-b842-561b58e30253")
+	)
+	(junction
+		(at 416.56 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59e2c882-2ea2-4963-ad99-899d0c443c98")
 	)
 	(junction
 		(at 269.24 232.41)
@@ -6802,6 +6820,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5b232c8-a279-43e0-9598-b7273dba6756")
+	)
+	(junction
+		(at 515.62 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9a6883b-bd96-411d-a534-eea9271cee3e")
 	)
 	(junction
 		(at 430.53 180.34)
@@ -8009,6 +8033,16 @@
 	)
 	(wire
 		(pts
+			(xy 515.62 190.5) (xy 524.51 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2abbfeda-9591-42e6-b201-fecf74ab63a7")
+	)
+	(wire
+		(pts
 			(xy 273.05 306.07) (xy 279.4 306.07)
 		)
 		(stroke
@@ -8359,6 +8393,16 @@
 	)
 	(wire
 		(pts
+			(xy 416.56 153.67) (xy 429.26 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cc1a127-2e80-4a32-a511-e0d2c4c813d6")
+	)
+	(wire
+		(pts
 			(xy 509.27 177.8) (xy 509.27 185.42)
 		)
 		(stroke
@@ -8669,7 +8713,7 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 190.5) (xy 524.51 190.5)
+			(xy 510.54 190.5) (xy 515.62 190.5)
 		)
 		(stroke
 			(width 0)
@@ -8889,7 +8933,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 180.34) (xy 524.51 180.34)
+			(xy 508 180.34) (xy 515.62 180.34)
 		)
 		(stroke
 			(width 0)
@@ -8989,7 +9033,7 @@
 	)
 	(wire
 		(pts
-			(xy 411.48 146.05) (xy 429.26 146.05)
+			(xy 411.48 146.05) (xy 416.56 146.05)
 		)
 		(stroke
 			(width 0)
@@ -9046,6 +9090,16 @@
 			(type default)
 		)
 		(uuid "5cb3bb11-2451-4477-9fce-cf9518d1490d")
+	)
+	(wire
+		(pts
+			(xy 515.62 189.23) (xy 515.62 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d573f34-7768-4a3a-92fa-c38f7855181b")
 	)
 	(wire
 		(pts
@@ -9646,6 +9700,16 @@
 			(type default)
 		)
 		(uuid "783cebcd-47a6-417e-bcd5-53f8d171640c")
+	)
+	(wire
+		(pts
+			(xy 416.56 146.05) (xy 429.26 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "783db8fc-e23d-4e1c-81ca-b46969d3ebe5")
 	)
 	(wire
 		(pts
@@ -10589,6 +10653,16 @@
 	)
 	(wire
 		(pts
+			(xy 515.62 180.34) (xy 515.62 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2119481-a412-47f7-9f89-b33e743d6b51")
+	)
+	(wire
+		(pts
 			(xy 90.17 63.5) (xy 90.17 57.15)
 		)
 		(stroke
@@ -10649,6 +10723,16 @@
 	)
 	(wire
 		(pts
+			(xy 515.62 180.34) (xy 524.51 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a810c035-390c-4260-b6ae-519f386c70f7")
+	)
+	(wire
+		(pts
 			(xy 374.65 231.14) (xy 386.08 231.14)
 		)
 		(stroke
@@ -10689,7 +10773,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 153.67) (xy 429.26 153.67)
+			(xy 403.86 153.67) (xy 416.56 153.67)
 		)
 		(stroke
 			(width 0)
@@ -20600,6 +20684,170 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 515.62 185.42 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ec33725-ff0c-4152-a607-6517a426de90")
+		(property "Reference" "RDIFF3"
+			(at 518.16 184.1499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100R"
+			(at 518.16 186.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 517.398 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 515.62 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 515.62 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f743708e-b47b-463e-9557-b61da3d2095c")
+		)
+		(pin "2"
+			(uuid "e2865920-985f-40c6-abbe-126609a3adbc")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDIFF3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 416.56 149.86 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ef572c4-d89e-4627-b8c8-b90a0149b047")
+		(property "Reference" "RDIFF2"
+			(at 419.1 148.5899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100R"
+			(at 419.1 151.1299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 418.338 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 416.56 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 416.56 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b2fa04fb-8d0f-481d-bfc9-995e5e44f44b")
+		)
+		(pin "2"
+			(uuid "37fcd707-03d9-4867-ba81-f4ac2608ff46")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDIFF2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 154.94 180.34 180)
 		(unit 1)
@@ -21110,7 +21358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP-72-1_ADI"
+		(property "Footprint" "footprints789:CP-72-1_ADI-M"
 			(at 187.96 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -27357,7 +27605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RGZ48_5P6X5P6"
+		(property "Footprint" "footprints789:RGZ48_5P6X5P6"
 			(at 431.8 127 0)
 			(hide yes)
 			(show_name no)
