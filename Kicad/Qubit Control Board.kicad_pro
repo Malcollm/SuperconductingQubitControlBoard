@@ -648,7 +648,7 @@
         "uuid": "d02a9e30-46b8-444a-9e12-1a93fb154b6d"
       }
     ],
-    "used_designators": "RIPF1,RLOAD2-4,RDIFF2-3",
+    "used_designators": "RIPF1,RLOAD2-4,RDIFF2-3,#PWR13-15,#PWR17,CQF2,CIF1-3",
     "variants": []
   },
   "sheets": [
