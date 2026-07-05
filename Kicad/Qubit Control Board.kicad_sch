@@ -6,7 +6,7 @@
 	(paper "A2")
 	(title_block
 		(title "Qubit Control Board")
-		(date "2026-07-03")
+		(date "2026-07-05")
 	)
 	(lib_symbols
 		(symbol "AD9743BCPZ:AD9743BCPZ"
@@ -1464,6 +1464,302 @@
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CVHD-950-100.000:CVHD-950-100.000"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Y"
+				(at -7.6412 5.4762 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "CVHD-950-100.000"
+				(at -7.6322 -7.6322 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CVHD-950-100.000:OSCSC508P1420X914X530-4N"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "PACKAGE_ID" "22165"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Crystek Corporation"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "CVHD-950-100.000_0_0"
+				(rectangle
+					(start -7.62 -5.08)
+					(end 10.16 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.588 -1.27) (xy -3.556 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 0) (xy -3.556 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 -1.27) (xy -3.556 -2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 0) (xy -3.048 -2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -2.794) (xy -2.032 -2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 0) (xy -3.048 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -2.794) (xy -2.032 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0) (xy -1.524 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -1.27) (xy -1.524 -2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -1.27) (xy 0.254 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "CTRL"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -3955,190 +4251,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Oscillator:SiT8008xx-3x-xxN"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 4.064 8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SiT8008xx-3x-xxN"
-				(at 12.446 6.858 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_5.0x3.2mm"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit8008-datasheet"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 5.0x3.2mm (with NC pin)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Mems"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "*PQFN*5.0x3.2mm*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SiT8008xx-3x-xxN_0_1"
-				(rectangle
-					(start -5.08 5.08)
-					(end 5.08 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -0.762) (xy -1.016 -0.762) (xy -1.016 0.762) (xy -0.508 0.762) (xy -0.508 -0.762) (xy 0 -0.762)
-						(xy 0 0.762) (xy 0.508 0.762) (xy 0.508 -0.762) (xy 0.762 -0.762)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SiT8008xx-3x-xxN_1_1"
-				(pin no_connect line
-					(at -5.08 0 0)
-					(length 2.54)
-					(hide yes)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "Vdd"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:LT1963AxST-1.8"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5992,8 +6104,8 @@
 		(uuid "d27e39de-cc0f-4270-ae85-f7920afc89a2")
 	)
 	(rectangle
-		(start 474.98 304.8)
-		(end 565.15 360.68)
+		(start 469.9 304.8)
+		(end 554.99 360.68)
 		(stroke
 			(width 0)
 			(type default)
@@ -6015,7 +6127,7 @@
 	)
 	(text "100 MHz"
 		(exclude_from_sim no)
-		(at 502.158 347.472 0)
+		(at 494.538 303.022 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6083,16 +6195,6 @@
 		)
 		(uuid "7efedfac-7c8b-445a-b8f5-b7889d2c83e0")
 	)
-	(text "F_c = 31.895 MHz"
-		(exclude_from_sim no)
-		(at 255.778 292.608 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8652a764-4565-4bd8-a29d-1fcf35f124dd")
-	)
 	(text "DAC"
 		(exclude_from_sim no)
 		(at 37.338 157.48 0)
@@ -6135,7 +6237,7 @@
 	)
 	(text "PLL Clock"
 		(exclude_from_sim no)
-		(at 482.346 302.768 0)
+		(at 477.52 302.768 0)
 		(effects
 			(font
 				(size 2.032 2.032)
@@ -7663,6 +7765,16 @@
 	)
 	(wire
 		(pts
+			(xy 477.52 340.36) (xy 486.41 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1985a2f6-2915-4b33-ad06-f327c102051f")
+	)
+	(wire
+		(pts
 			(xy 429.26 147.32) (xy 431.8 147.32)
 		)
 		(stroke
@@ -7763,7 +7875,7 @@
 	)
 	(wire
 		(pts
-			(xy 533.4 340.36) (xy 539.75 340.36)
+			(xy 525.78 342.9) (xy 532.13 342.9)
 		)
 		(stroke
 			(width 0)
@@ -8623,7 +8735,7 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 340.36) (xy 551.18 340.36)
+			(xy 539.75 342.9) (xy 543.56 342.9)
 		)
 		(stroke
 			(width 0)
@@ -8753,13 +8865,23 @@
 	)
 	(wire
 		(pts
-			(xy 521.97 340.36) (xy 525.78 340.36)
+			(xy 514.35 342.9) (xy 518.16 342.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4c62544a-1766-4f92-ac66-8696a0933ac8")
+	)
+	(wire
+		(pts
+			(xy 514.35 322.58) (xy 514.35 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c723de5-87ea-424f-bf07-43f178090448")
 	)
 	(wire
 		(pts
@@ -9423,16 +9545,6 @@
 	)
 	(wire
 		(pts
-			(xy 514.35 322.58) (xy 514.35 332.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c54e170-700d-4070-895d-75b7569db917")
-	)
-	(wire
-		(pts
 			(xy 351.79 128.27) (xy 351.79 123.19)
 		)
 		(stroke
@@ -9593,7 +9705,7 @@
 	)
 	(wire
 		(pts
-			(xy 514.35 347.98) (xy 514.35 353.06)
+			(xy 514.35 345.44) (xy 514.35 350.52)
 		)
 		(stroke
 			(width 0)
@@ -9920,6 +10032,16 @@
 			(type default)
 		)
 		(uuid "814fb2d4-33c8-4c7b-9a6c-07572b075c99")
+	)
+	(wire
+		(pts
+			(xy 477.52 337.82) (xy 477.52 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "815c77c2-5ef9-4b0c-9578-63160704f88c")
 	)
 	(wire
 		(pts
@@ -12982,7 +13104,7 @@
 		(uuid "674e9240-fa43-47a0-964a-34126ecb9989")
 	)
 	(label "REFIN"
-		(at 551.18 340.36 0)
+		(at 543.56 342.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13617,7 +13739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 385.1148 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -13856,7 +13978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 533.4 239.268 90)
 			(hide yes)
 			(show_name no)
@@ -14013,7 +14135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 252.222 90)
 			(hide yes)
 			(show_name no)
@@ -14174,7 +14296,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 267.462 90)
 			(hide yes)
 			(show_name no)
@@ -14365,7 +14487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 221.742 90)
 			(hide yes)
 			(show_name no)
@@ -14527,7 +14649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal"
 			(at 58.42 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -14703,7 +14825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 261.112 90)
 			(hide yes)
 			(show_name no)
@@ -14941,7 +15063,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 409.2448 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -15419,7 +15541,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 176.8348 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -15469,7 +15591,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 543.56 340.36 90)
+		(at 535.94 342.9 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15479,7 +15601,7 @@
 		(dnp no)
 		(uuid "16e673dc-0407-426e-81be-3de1d88e80d1")
 		(property "Reference" "CC1"
-			(at 543.56 334.01 90)
+			(at 535.94 336.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15489,7 +15611,7 @@
 			)
 		)
 		(property "Value" "47p"
-			(at 543.56 336.55 90)
+			(at 535.94 339.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15499,7 +15621,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 547.37 339.3948 0)
+			(at 539.75 341.9348 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15510,7 +15632,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 543.56 340.36 0)
+			(at 535.94 342.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15521,7 +15643,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 543.56 340.36 0)
+			(at 535.94 342.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15655,7 +15777,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 238.252 90)
 			(hide yes)
 			(show_name no)
@@ -15734,7 +15856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 236.982 90)
 			(hide yes)
 			(show_name no)
@@ -16617,7 +16739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 416.8648 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -16699,7 +16821,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 397.8148 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -16939,7 +17061,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 387.6548 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -17339,7 +17461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 253.492 90)
 			(hide yes)
 			(show_name no)
@@ -17500,7 +17622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 533.4 230.378 90)
 			(hide yes)
 			(show_name no)
@@ -17706,94 +17828,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Oscillator:SiT8008xx-3x-xxN")
-		(at 514.35 340.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4dd4e00e-e89a-4915-8469-2ed762925d6b")
-		(property "Reference" "Y1"
-			(at 508 339.0899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SiT8008xx-3x-xxN"
-			(at 508 341.6299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_5.0x3.2mm"
-			(at 514.35 340.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit8008-datasheet"
-			(at 514.35 340.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SiTime Low Power Mems programmable oscillator, 1MHz to 110MHz, PQFN-4, 5.0x3.2mm (with NC pin)"
-			(at 514.35 340.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3123cc55-465a-42c8-bf2b-5b33ba828b0e")
-		)
-		(pin "2"
-			(uuid "dc03c104-03b1-48b2-bfaf-f91a39d527af")
-		)
-		(pin "4"
-			(uuid "6ec672b9-979a-4489-a85b-c95542c5d3b7")
-		)
-		(pin "3"
-			(uuid "916a6b5b-7b94-48d8-b01b-7fb0af51909d")
-		)
-		(instances
-			(project "Qubit Control Board"
-				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
-					(reference "Y1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 54.61 274.32 0)
 		(unit 1)
@@ -17866,6 +17900,117 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CVHD-950-100.000:CVHD-950-100.000")
+		(at 499.11 342.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ecbeb1d-d6c4-49c7-b4a9-ccd0c412153c")
+		(property "Reference" "Y2"
+			(at 500.38 332.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CVHD-950-100.000"
+			(at 500.38 335.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "footprints789:OSCSC508P1420X914X530-4N"
+			(at 499.11 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 499.11 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 499.11 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PACKAGE_ID" "22165"
+			(at 499.11 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Crystek Corporation"
+			(at 499.11 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "e6243b9b-2090-433a-8a97-51eec996856b")
+		)
+		(pin "3"
+			(uuid "fbbcd133-4173-4c09-aa49-022157a6f333")
+		)
+		(pin "4"
+			(uuid "03b07475-f8a4-4157-9832-9bc7a64bb3f0")
+		)
+		(pin "1"
+			(uuid "37255eab-e2f0-46f6-aee8-53c9be3fb7b2")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -17981,7 +18126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 275.082 90)
 			(hide yes)
 			(show_name no)
@@ -18621,7 +18766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -18784,7 +18929,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 392.7348 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -19220,7 +19365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 421.9448 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -19381,7 +19526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 533.4 265.938 90)
 			(hide yes)
 			(show_name no)
@@ -19780,7 +19925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 276.352 90)
 			(hide yes)
 			(show_name no)
@@ -20022,7 +20167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.21 334.518 90)
 			(hide yes)
 			(show_name no)
@@ -20266,7 +20411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 405.4348 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -20427,7 +20572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.57 334.518 90)
 			(hide yes)
 			(show_name no)
@@ -20830,7 +20975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 153.9748 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -20912,7 +21057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 409.2448 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -21197,7 +21342,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 529.59 340.36 90)
+		(at 521.97 342.9 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21208,7 +21353,7 @@
 		(fields_autoplaced yes)
 		(uuid "83b5af99-d953-4ca6-829c-c901ba6fe9de")
 		(property "Reference" "RT2"
-			(at 529.59 334.01 90)
+			(at 521.97 336.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21218,7 +21363,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 529.59 336.55 90)
+			(at 521.97 339.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21227,8 +21372,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 529.59 342.138 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 521.97 344.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21239,7 +21384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 529.59 340.36 0)
+			(at 521.97 342.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21250,7 +21395,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 529.59 340.36 0)
+			(at 521.97 342.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21761,7 +21906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 214.122 90)
 			(hide yes)
 			(show_name no)
@@ -22499,7 +22644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 264.4648 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -22581,7 +22726,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 165.4048 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -22739,7 +22884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 229.362 90)
 			(hide yes)
 			(show_name no)
@@ -22988,7 +23133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 244.602 90)
 			(hide yes)
 			(show_name no)
@@ -23070,7 +23215,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 434.6448 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -23312,7 +23457,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 247.9548 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -23791,7 +23936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 230.632 90)
 			(hide yes)
 			(show_name no)
@@ -24029,7 +24174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 287.3248 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -24108,7 +24253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 215.392 90)
 			(hide yes)
 			(show_name no)
@@ -24268,7 +24413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 106.3752 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -24503,7 +24648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 206.502 90)
 			(hide yes)
 			(show_name no)
@@ -24583,7 +24728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 113.03 312.7248 0)
 			(hide yes)
 			(show_name no)
@@ -24744,7 +24889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 253.0348 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -24826,7 +24971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 174.2948 331.47 0)
 			(hide yes)
 			(show_name no)
@@ -25389,7 +25534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 268.732 90)
 			(hide yes)
 			(show_name no)
@@ -25629,7 +25774,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 275.8948 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -25793,7 +25938,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 381.3048 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26032,7 +26177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.8748 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -26558,6 +26703,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 477.52 337.82 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df4e6484-35b2-41aa-997c-c181f69c860a")
+		(property "Reference" "#PWR025"
+			(at 477.52 341.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 477.52 332.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 477.52 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 477.52 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 477.52 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "846aa13d-e8fc-4109-ab9b-6670295c243e")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Regulator_Linear:LT1963AxST-1.8")
 		(at 152.4 78.74 0)
 		(unit 1)
@@ -26674,7 +26897,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 373.6848 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -26753,7 +26976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 207.772 90)
 			(hide yes)
 			(show_name no)
@@ -26914,7 +27137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 533.4 257.048 90)
 			(hide yes)
 			(show_name no)
@@ -27313,7 +27536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 115.57 259.842 90)
 			(hide yes)
 			(show_name no)
@@ -27363,7 +27586,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 514.35 353.06 0)
+		(at 514.35 350.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27374,7 +27597,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1f41392-2eb2-4b2e-9944-415d1a9bd3d8")
 		(property "Reference" "#PWR051"
-			(at 514.35 359.41 0)
+			(at 514.35 356.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27385,7 +27608,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 514.35 358.14 0)
+			(at 514.35 355.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27395,7 +27618,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 514.35 353.06 0)
+			(at 514.35 350.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27406,7 +27629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 514.35 353.06 0)
+			(at 514.35 350.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27417,7 +27640,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 514.35 353.06 0)
+			(at 514.35 350.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27694,7 +27917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 243.84 310.388 90)
 			(hide yes)
 			(show_name no)
@@ -27774,7 +27997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 78.74 335.788 90)
 			(hide yes)
 			(show_name no)
@@ -27932,7 +28155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.21 310.388 90)
 			(hide yes)
 			(show_name no)
@@ -28248,7 +28471,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 175.5648 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -28327,7 +28550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 245.872 90)
 			(hide yes)
 			(show_name no)
@@ -28488,7 +28711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 533.4 248.158 90)
 			(hide yes)
 			(show_name no)
