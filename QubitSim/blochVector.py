@@ -1,17 +1,14 @@
 import numpy as np
-from qiskit.visualization import plot_bloch_vector
-import matplotlib.pyplot as plt
+
 
 class BlochVector:
-    def __init__(self, rabi_freq, init_state=None):
+    def __init__(self, init_state=None):
         if init_state is None:
             init_state = np.array([ [0], [0], [1] ])
         self.state = []
         for item in init_state:
             self.state.append(item)
         self.state = np.array(self.state)
-
-        self.rabi_freq = rabi_freq
 
     def rotate_x(self, angle):
         r = np.array([
@@ -37,8 +34,7 @@ class BlochVector:
             output.append(item[0])
         return output
 
-    def rotate(self, phase, pulse_length):
-        theta = self.rabi_freq * pulse_length
+    def rotate(self, phase, theta):
         r = np.array([
             [np.cos(theta) + np.cos(phase) ** 2 * (1 - np.cos(theta)), np.cos(phase) * np.sin(phase) * (1 - np.cos(theta)), np.sin(phase) * np.sin(theta)],
             [np.cos(phase) * np.sin(phase) * (1 - np.cos(theta)), np.cos(theta) + np.sin(phase) ** 2 * (1 - np.cos(theta)), -np.cos(phase) * np.sin(theta)],
@@ -46,7 +42,3 @@ class BlochVector:
         ])
 
         self.state = r @ self.state
-
-    def display(self):
-        plot_bloch_vector(self.get_state(), title="Bloch Sphere")
-        plt.show()
