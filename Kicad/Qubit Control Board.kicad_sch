@@ -6611,6 +6611,12 @@
 		(uuid "4994d56a-169d-4c37-a87b-e6e18bdc9f51")
 	)
 	(junction
+		(at 130.81 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c231af1-a60b-4eee-b773-7dc7dfd797d4")
+	)
+	(junction
 		(at 229.87 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6963,6 +6969,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aec687c0-3ce6-41a7-825b-6c38f58618e4")
+	)
+	(junction
+		(at 130.81 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af51353f-9b15-4732-83cd-8d57466ade19")
 	)
 	(junction
 		(at 445.77 264.16)
@@ -9284,7 +9296,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 133.35) (xy 142.24 133.35)
+			(xy 128.27 133.35) (xy 130.81 133.35)
 		)
 		(stroke
 			(width 0)
@@ -9504,7 +9516,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 125.73) (xy 142.24 125.73)
+			(xy 116.84 125.73) (xy 130.81 125.73)
 		)
 		(stroke
 			(width 0)
@@ -9651,6 +9663,16 @@
 			(type default)
 		)
 		(uuid "59e467c9-873e-4728-b93d-b72b4c62bd75")
+	)
+	(wire
+		(pts
+			(xy 130.81 125.73) (xy 142.24 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a7441cc-626a-4fc6-b5a3-ce55eb47d125")
 	)
 	(wire
 		(pts
@@ -13204,6 +13226,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 133.35) (xy 142.24 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d82a93-8ca3-44f1-baf6-ab3dbc173721")
+	)
+	(wire
+		(pts
 			(xy 238.76 213.36) (xy 238.76 210.82)
 		)
 		(stroke
@@ -16128,6 +16160,88 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 130.81 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10a0463e-5a25-4e9f-89c3-ba1b521952fe")
+		(property "Reference" "CLDO6"
+			(at 134.62 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 134.62 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 131.7752 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 130.81 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "08317f96-97b5-4fe8-ba25-05a350cf9b5f")
+		)
+		(pin "1"
+			(uuid "6d7cb95e-c279-4bd4-bd24-419bb9e45788")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "CLDO6")
 					(unit 1)
 				)
 			)
@@ -27293,7 +27407,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "100n"
 			(at 176.53 358.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
