@@ -6,7 +6,7 @@
 	(paper "A2")
 	(title_block
 		(title "Qubit Control Board")
-		(date "2026-07-09")
+		(date "2026-07-18")
 	)
 	(lib_symbols
 		(symbol "AD9743BCPZ:AD9743BCPZ"
