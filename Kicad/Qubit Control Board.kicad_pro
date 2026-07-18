@@ -614,6 +614,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE_ID",
+          "name": "PACKAGE_ID",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -672,7 +684,7 @@
         "uuid": "d02a9e30-46b8-444a-9e12-1a93fb154b6d"
       }
     ],
-    "used_designators": "#FLG1",
+    "used_designators": "#FLG1,#PWR11,#PWR20-21,#PWR78-82,FB5-8",
     "variants": []
   },
   "sheets": [
