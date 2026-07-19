@@ -6293,6 +6293,12 @@
 		(uuid "024cb236-365f-46a2-bf34-2c7d830ebf65")
 	)
 	(junction
+		(at 438.15 222.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "040d7820-0613-4940-a722-06dfb96465af")
+	)
+	(junction
 		(at 379.73 294.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6317,12 +6323,6 @@
 		(uuid "08936422-e2af-4736-b372-bd423991e937")
 	)
 	(junction
-		(at 415.29 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08960fec-0890-4c45-9ed3-ecbfc8de8949")
-	)
-	(junction
 		(at 142.24 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6339,12 +6339,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f1a7c79-1e76-4ef5-9b32-13a6c070481d")
-	)
-	(junction
-		(at 421.64 336.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12b6cbfe-f43b-4860-a8df-c4415aa875c0")
 	)
 	(junction
 		(at 510.54 129.54)
@@ -6407,12 +6401,6 @@
 		(uuid "1b9cd0e1-6611-458f-9e27-3874cba8dd78")
 	)
 	(junction
-		(at 344.17 223.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d29aea7-9995-4568-885b-90f64fd8868b")
-	)
-	(junction
 		(at 430.53 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6423,6 +6411,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1e31b1e5-0bf3-4da7-8f59-03c962c0070c")
+	)
+	(junction
+		(at 365.76 223.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f817ffa-ec5f-4e13-a783-b108a600fa4e")
 	)
 	(junction
 		(at 176.53 210.82)
@@ -6453,6 +6447,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3009e4eb-5315-418c-b1c4-2be0e44c9004")
+	)
+	(junction
+		(at 433.07 256.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30ec5985-32f7-4dbe-af60-5050de98a5c1")
 	)
 	(junction
 		(at 156.21 125.73)
@@ -6557,6 +6557,12 @@
 		(uuid "42de4ec6-7607-4ffe-b8ee-bf910dc51e01")
 	)
 	(junction
+		(at 415.29 256.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43d7600c-9fa3-489d-abcf-3a9d605a3926")
+	)
+	(junction
 		(at 486.41 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6623,10 +6629,22 @@
 		(uuid "5c763d4f-029b-42a8-8e78-52e9d3737a84")
 	)
 	(junction
+		(at 433.07 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e243423-ff46-4bbe-bec3-02e13a949e0c")
+	)
+	(junction
 		(at 129.54 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f035a12-0811-47b2-ac0c-ac76ce323467")
+	)
+	(junction
+		(at 440.69 294.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f434bf3-2e2e-4302-a1a1-8191a01ca925")
 	)
 	(junction
 		(at 266.7 254)
@@ -6639,12 +6657,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "616dfea7-1cd3-4201-86f7-02a9928a213f")
-	)
-	(junction
-		(at 374.65 336.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "61a0976d-20b9-4b90-8b32-763d4eef293f")
 	)
 	(junction
 		(at 445.77 264.16)
@@ -6689,13 +6701,25 @@
 		(uuid "675dcd01-6428-4b62-bea0-5e15d0a533c2")
 	)
 	(junction
+		(at 374.65 336.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c17428b-8502-4cdc-a7ee-250929a3ac3f")
+	)
+	(junction
+		(at 365.76 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e2ed10e-51c1-446f-997d-72adad0113ca")
+	)
+	(junction
 		(at 454.66 287.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e830e39-d829-4f7f-b240-428fab64f603")
 	)
 	(junction
-		(at 445.77 222.25)
+		(at 449.58 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "729d2a86-74db-4648-ad65-96e960a0b8ef")
@@ -6725,10 +6749,10 @@
 		(uuid "75e0c735-78aa-4697-bf6b-c6b6415da572")
 	)
 	(junction
-		(at 365.76 223.52)
+		(at 421.64 336.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "78830231-597e-4520-b747-bdc32d9b4d41")
+		(uuid "769749e1-ff76-4b20-aa64-84181206dae8")
 	)
 	(junction
 		(at 175.26 205.74)
@@ -6809,12 +6833,6 @@
 		(uuid "8b1bf86c-2e75-4304-ac7d-925e4522062e")
 	)
 	(junction
-		(at 344.17 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f62d425-93ce-4659-9a61-e538bda02325")
-	)
-	(junction
 		(at 229.87 330.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6831,6 +6849,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92613fac-d386-4d37-9c98-437075cbc50f")
+	)
+	(junction
+		(at 365.76 256.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92914a67-2bbf-43cc-9b63-077dd2f33dc5")
 	)
 	(junction
 		(at 147.32 345.44)
@@ -6875,12 +6899,6 @@
 		(uuid "9a15ba55-59ac-48e5-982a-591bef495ded")
 	)
 	(junction
-		(at 440.69 294.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a16a722-1fb2-430f-a060-dac7c93334fa")
-	)
-	(junction
 		(at 116.84 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6903,6 +6921,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3f4fcb2-5e0a-4dd2-bbbf-3d0edf7500a1")
+	)
+	(junction
+		(at 344.17 256.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a47f787f-c1b6-4d62-b32c-636339ed222f")
 	)
 	(junction
 		(at 271.78 354.33)
@@ -6935,6 +6959,12 @@
 		(uuid "aec687c0-3ce6-41a7-825b-6c38f58618e4")
 	)
 	(junction
+		(at 415.29 222.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1c73213-82b0-4718-81dd-7a6583f21a86")
+	)
+	(junction
 		(at 501.65 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6945,12 +6975,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5e5e64d-73d1-4c80-beea-9e5f20ea7434")
-	)
-	(junction
-		(at 365.76 287.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7305039-4858-405e-85bb-fefe257b5eec")
 	)
 	(junction
 		(at 187.96 67.31)
@@ -6971,7 +6995,7 @@
 		(uuid "bcf3cf75-3db4-4816-a232-7550d3426936")
 	)
 	(junction
-		(at 445.77 229.87)
+		(at 449.58 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be854701-9414-4539-906e-0fe2d0ede8a4")
@@ -6989,28 +7013,10 @@
 		(uuid "bf3f2be7-3548-4691-bb4a-9fab6e93d24d")
 	)
 	(junction
-		(at 434.34 222.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bfb4197b-7043-4f9d-a35b-29039b97603f")
-	)
-	(junction
 		(at 87.63 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c05f0a5d-00f5-4cf1-bd49-91dc1e933508")
-	)
-	(junction
-		(at 365.76 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c0e25373-c8f7-450f-beda-c19b0d0328c5")
-	)
-	(junction
-		(at 431.8 287.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c164070e-7d1e-4fb8-ae1c-7d8922266fa4")
 	)
 	(junction
 		(at 427.99 139.7)
@@ -7035,6 +7041,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c68609c4-79fc-435e-9452-f7889673c50f")
+	)
+	(junction
+		(at 344.17 223.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c92f31e3-b7e6-44aa-afcd-96c5b8ecefc1")
 	)
 	(junction
 		(at 102.87 201.93)
@@ -7205,12 +7217,6 @@
 		(uuid "ee6fb0e3-8450-478a-a2e7-bb07acae6b1a")
 	)
 	(junction
-		(at 415.29 222.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee8ba597-10ee-4a66-b854-7b0b25192a38")
-	)
-	(junction
 		(at 389.89 256.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7293,12 +7299,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb3ab679-8091-4f73-83c3-6e9206c1c628")
-	)
-	(junction
-		(at 433.07 256.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fc659030-5d98-4071-a254-744b104f7101")
 	)
 	(junction
 		(at 377.19 256.54)
@@ -7577,6 +7577,16 @@
 			(type default)
 		)
 		(uuid "0650cb93-c7c6-4ad1-874f-8090c629181d")
+	)
+	(wire
+		(pts
+			(xy 363.22 287.02) (xy 365.76 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0673c5e2-4ab9-47c1-8541-06ad6aef2542")
 	)
 	(wire
 		(pts
@@ -7957,16 +7967,6 @@
 			(type default)
 		)
 		(uuid "14227921-7cb7-4eb5-b1b9-8ee2187033d2")
-	)
-	(wire
-		(pts
-			(xy 427.99 256.54) (xy 433.07 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14d67035-bf86-4a7b-b37e-32485441e75a")
 	)
 	(wire
 		(pts
@@ -8450,7 +8450,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 336.55) (xy 408.94 336.55)
+			(xy 402.59 336.55) (xy 405.13 336.55)
 		)
 		(stroke
 			(width 0)
@@ -8510,7 +8510,7 @@
 	)
 	(wire
 		(pts
-			(xy 344.17 223.52) (xy 353.06 223.52)
+			(xy 344.17 223.52) (xy 346.71 223.52)
 		)
 		(stroke
 			(width 0)
@@ -8570,6 +8570,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 256.54) (xy 365.76 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d9f0d73-63c1-4304-bd06-d61aa53408af")
+	)
+	(wire
+		(pts
 			(xy 365.76 287.02) (xy 379.73 287.02)
 		)
 		(stroke
@@ -8610,7 +8620,7 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 336.55) (xy 421.64 336.55)
+			(xy 412.75 336.55) (xy 414.02 336.55)
 		)
 		(stroke
 			(width 0)
@@ -8810,7 +8820,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 287.02) (xy 365.76 287.02)
+			(xy 353.06 287.02) (xy 355.6 287.02)
 		)
 		(stroke
 			(width 0)
@@ -9020,7 +9030,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 336.55) (xy 363.22 336.55)
+			(xy 356.87 336.55) (xy 359.41 336.55)
 		)
 		(stroke
 			(width 0)
@@ -9077,6 +9087,16 @@
 			(type default)
 		)
 		(uuid "42a61cc7-e416-4863-9415-4dfb38508b79")
+	)
+	(wire
+		(pts
+			(xy 433.07 287.02) (xy 443.23 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42be17dd-4b07-4eb7-bc1f-9d63cc5eed75")
 	)
 	(wire
 		(pts
@@ -9290,16 +9310,6 @@
 	)
 	(wire
 		(pts
-			(xy 426.72 287.02) (xy 431.8 287.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4abd7e21-451e-4998-b37d-667457912c82")
-	)
-	(wire
-		(pts
 			(xy 52.07 231.14) (xy 59.69 231.14)
 		)
 		(stroke
@@ -9310,7 +9320,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 256.54) (xy 365.76 256.54)
+			(xy 354.33 256.54) (xy 355.6 256.54)
 		)
 		(stroke
 			(width 0)
@@ -9630,7 +9640,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 256.54) (xy 344.17 256.54)
+			(xy 346.71 256.54) (xy 344.17 256.54)
 		)
 		(stroke
 			(width 0)
@@ -10370,6 +10380,16 @@
 	)
 	(wire
 		(pts
+			(xy 435.61 222.25) (xy 438.15 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "730ff0b0-c41d-4061-a86a-63df2b4f654d")
+	)
+	(wire
+		(pts
 			(xy 420.37 162.56) (xy 430.53 162.56)
 		)
 		(stroke
@@ -10630,7 +10650,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 222.25) (xy 420.37 222.25)
+			(xy 415.29 222.25) (xy 417.83 222.25)
 		)
 		(stroke
 			(width 0)
@@ -10790,7 +10810,7 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 223.52) (xy 365.76 223.52)
+			(xy 354.33 223.52) (xy 356.87 223.52)
 		)
 		(stroke
 			(width 0)
@@ -10980,17 +11000,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 287.02) (xy 443.23 287.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d8b9f7a-3bb3-4ea1-8674-d543075ced0c")
-	)
-	(wire
-		(pts
-			(xy 445.77 229.87) (xy 445.77 236.22)
+			(xy 449.58 229.87) (xy 449.58 236.22)
 		)
 		(stroke
 			(width 0)
@@ -11060,7 +11070,7 @@
 	)
 	(wire
 		(pts
-			(xy 434.34 229.87) (xy 445.77 229.87)
+			(xy 438.15 229.87) (xy 449.58 229.87)
 		)
 		(stroke
 			(width 0)
@@ -11670,7 +11680,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 222.25) (xy 434.34 222.25)
+			(xy 425.45 222.25) (xy 427.99 222.25)
 		)
 		(stroke
 			(width 0)
@@ -11730,7 +11740,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 287.02) (xy 344.17 287.02)
+			(xy 345.44 287.02) (xy 344.17 287.02)
 		)
 		(stroke
 			(width 0)
@@ -11820,7 +11830,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 256.54) (xy 420.37 256.54)
+			(xy 415.29 256.54) (xy 417.83 256.54)
 		)
 		(stroke
 			(width 0)
@@ -12060,7 +12070,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 222.25) (xy 453.39 222.25)
+			(xy 449.58 222.25) (xy 457.2 222.25)
 		)
 		(stroke
 			(width 0)
@@ -12560,7 +12570,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 287.02) (xy 419.1 287.02)
+			(xy 415.29 287.02) (xy 417.83 287.02)
 		)
 		(stroke
 			(width 0)
@@ -12600,7 +12610,7 @@
 	)
 	(wire
 		(pts
-			(xy 434.34 222.25) (xy 445.77 222.25)
+			(xy 438.15 222.25) (xy 449.58 222.25)
 		)
 		(stroke
 			(width 0)
@@ -12740,7 +12750,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 294.64) (xy 440.69 294.64)
+			(xy 433.07 294.64) (xy 440.69 294.64)
 		)
 		(stroke
 			(width 0)
@@ -13117,16 +13127,6 @@
 			(type default)
 		)
 		(uuid "e84749da-5a13-4b24-a53c-17086b4e153e")
-	)
-	(wire
-		(pts
-			(xy 370.84 336.55) (xy 374.65 336.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e953567d-bf1f-4c9d-8335-1ae42a0eda7f")
 	)
 	(wire
 		(pts
@@ -13510,6 +13510,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 223.52) (xy 365.76 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9fbde89-29ae-48db-bf81-d679ffd3c2b4")
+	)
+	(wire
+		(pts
 			(xy 101.6 267.97) (xy 104.14 267.97)
 		)
 		(stroke
@@ -13709,7 +13719,7 @@
 		(uuid "171d8dd8-0fa5-44cb-903a-6e0117359fb3")
 	)
 	(label "VCC_LO1"
-		(at 453.39 222.25 0)
+		(at 457.2 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14812,7 +14822,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 434.34 226.06 180)
+		(at 438.15 226.06 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14823,7 +14833,7 @@
 		(fields_autoplaced yes)
 		(uuid "0193a9d7-41b2-4561-bf67-d5c4292069b5")
 		(property "Reference" "CD17"
-			(at 438.15 224.7899 0)
+			(at 441.96 224.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14834,7 +14844,7 @@
 			)
 		)
 		(property "Value" "100p"
-			(at 438.15 227.3299 0)
+			(at 441.96 227.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14845,7 +14855,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 433.3748 222.25 0)
+			(at 437.1848 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14856,7 +14866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 434.34 226.06 0)
+			(at 438.15 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14867,7 +14877,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 434.34 226.06 0)
+			(at 438.15 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15212,7 +15222,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 424.18 222.25 90)
+		(at 421.64 222.25 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15223,7 +15233,7 @@
 		(fields_autoplaced yes)
 		(uuid "04b7e28d-b3bd-4ae0-9d0d-92b6392e5bcc")
 		(property "Reference" "FB6"
-			(at 424.1292 214.63 90)
+			(at 421.5892 214.63 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15233,7 +15243,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 424.1292 217.17 90)
+			(at 421.5892 217.17 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15243,7 +15253,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 424.18 224.028 90)
+			(at 421.64 224.028 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15254,7 +15264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 424.18 222.25 0)
+			(at 421.64 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15265,7 +15275,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 424.18 222.25 0)
+			(at 421.64 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16572,6 +16582,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 429.26 256.54 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "110c2334-db15-436c-8a0a-0cc9e08eef7f")
+		(property "Reference" "RDM4"
+			(at 429.26 250.19 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 429.26 252.73 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 429.26 258.318 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 429.26 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 429.26 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc3327c1-c710-43ad-b0d9-24c64b3ef58e")
+		)
+		(pin "2"
+			(uuid "bc86218f-464a-4335-85ec-f4379cf2888f")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 90.17 57.15 0)
 		(unit 1)
@@ -16723,6 +16813,86 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "Rd1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 417.83 336.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12c6736b-6796-46da-9316-8ce59f010fc2")
+		(property "Reference" "RDM8"
+			(at 417.83 330.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 417.83 332.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 417.83 338.328 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 417.83 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 417.83 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f863b798-5941-4b5a-9b8e-7ed5afb3887c")
+		)
+		(pin "2"
+			(uuid "2db14494-2ecb-45f6-acb3-9e9f5b473932")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM8")
 					(unit 1)
 				)
 			)
@@ -17804,7 +17974,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 356.87 223.52 90)
+		(at 350.52 223.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17815,7 +17985,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f5c68fa-b30d-4799-aa5d-df25e92e2af7")
 		(property "Reference" "FB2"
-			(at 356.8192 215.9 90)
+			(at 350.4692 215.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17825,7 +17995,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 356.8192 218.44 90)
+			(at 350.4692 218.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17835,7 +18005,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 356.87 225.298 90)
+			(at 350.52 225.298 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17846,7 +18016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 223.52 0)
+			(at 350.52 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17857,7 +18027,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 356.87 223.52 0)
+			(at 350.52 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18048,7 +18218,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 367.03 336.55 90)
+		(at 363.22 336.55 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18059,7 +18229,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b00e701-adc3-4271-b226-fcd8af3ddb01")
 		(property "Reference" "FB1"
-			(at 366.9792 328.93 90)
+			(at 363.1692 328.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18069,7 +18239,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 366.9792 331.47 90)
+			(at 363.1692 331.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18079,7 +18249,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 367.03 338.328 90)
+			(at 363.22 338.328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18090,7 +18260,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 367.03 336.55 0)
+			(at 363.22 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18101,7 +18271,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 367.03 336.55 0)
+			(at 363.22 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18766,7 +18936,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 356.87 287.02 90)
+		(at 349.25 287.02 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18777,7 +18947,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c06db84-c4d4-413c-89b5-f7f98777737d")
 		(property "Reference" "FB4"
-			(at 356.8192 279.4 90)
+			(at 349.1992 279.4 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18787,7 +18957,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 356.8192 281.94 90)
+			(at 349.1992 281.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18797,7 +18967,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 356.87 288.798 90)
+			(at 349.25 288.798 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18808,7 +18978,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 287.02 0)
+			(at 349.25 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18819,7 +18989,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 356.87 287.02 0)
+			(at 349.25 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19918,6 +20088,86 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 359.41 256.54 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "518ee170-469d-4cc0-9b6d-80df9bd25566")
+		(property "Reference" "RDM3"
+			(at 359.41 250.19 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 359.41 252.73 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 359.41 258.318 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 359.41 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "10258027-14fa-4240-b2ee-109b8313f0c1")
+		)
+		(pin "2"
+			(uuid "8320a207-bb78-4771-a57e-546552deba30")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 113.03 298.45 270)
 		(unit 1)
 		(body_style 1)
@@ -19997,7 +20247,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 422.91 287.02 90)
+		(at 421.64 287.02 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20008,7 +20258,7 @@
 		(fields_autoplaced yes)
 		(uuid "55a01fe1-1be3-4c0f-b6f6-33e62b014a71")
 		(property "Reference" "FB8"
-			(at 422.8592 279.4 90)
+			(at 421.5892 279.4 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20018,7 +20268,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 422.8592 281.94 90)
+			(at 421.5892 281.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20028,7 +20278,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 422.91 288.798 90)
+			(at 421.64 288.798 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20039,7 +20289,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 422.91 287.02 0)
+			(at 421.64 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20050,7 +20300,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 422.91 287.02 0)
+			(at 421.64 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20070,6 +20320,86 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "FB8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 359.41 287.02 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "562606d1-fc11-4b73-82a6-f5ca69298dcf")
+		(property "Reference" "RDM5"
+			(at 359.41 280.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 359.41 283.21 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 359.41 288.798 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 359.41 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 359.41 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b517a732-482e-4ac8-baef-78b7be062d7f")
+		)
+		(pin "2"
+			(uuid "01a186ee-dfc9-4d3e-a8c4-1be41e59bc83")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM5")
 					(unit 1)
 				)
 			)
@@ -20312,6 +20642,86 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 431.8 222.25 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bd3526a-bc8e-4020-b049-ff35a1c99c8c")
+		(property "Reference" "RDM2"
+			(at 431.8 215.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 431.8 218.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 431.8 224.028 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 431.8 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 431.8 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9010a7ae-962f-4b82-a313-4b750d4b7e4d")
+		)
+		(pin "2"
+			(uuid "1922f816-7054-4d58-a47f-df2ca0585f2b")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM2")
 					(unit 1)
 				)
 			)
@@ -20799,7 +21209,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 445.77 236.22 0)
+		(at 449.58 236.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20810,7 +21220,7 @@
 		(fields_autoplaced yes)
 		(uuid "64a29a8c-d41b-4fd6-bfc5-fcf58f72e04d")
 		(property "Reference" "#PWR080"
-			(at 445.77 242.57 0)
+			(at 449.58 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20821,7 +21231,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 445.77 241.3 0)
+			(at 449.58 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20831,7 +21241,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 445.77 236.22 0)
+			(at 449.58 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20842,7 +21252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 445.77 236.22 0)
+			(at 449.58 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20853,7 +21263,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 445.77 236.22 0)
+			(at 449.58 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22275,7 +22685,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 412.75 336.55 90)
+		(at 408.94 336.55 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22286,7 +22696,7 @@
 		(fields_autoplaced yes)
 		(uuid "75eaf82e-2fcb-4dff-bfad-e83987972cd4")
 		(property "Reference" "FB5"
-			(at 412.6992 328.93 90)
+			(at 408.8892 328.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22296,7 +22706,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 412.6992 331.47 90)
+			(at 408.8892 331.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22306,7 +22716,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 412.75 338.328 90)
+			(at 408.94 338.328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22317,7 +22727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 412.75 336.55 0)
+			(at 408.94 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22328,7 +22738,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 412.75 336.55 0)
+			(at 408.94 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22597,7 +23007,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 431.8 290.83 180)
+		(at 433.07 290.83 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22605,10 +23015,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "780e2cfe-5d3d-4240-8d1d-ccb8f6a17f10")
 		(property "Reference" "CD21"
-			(at 435.61 289.5599 0)
+			(at 435.864 289.306 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22619,7 +23028,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 435.61 292.0999 0)
+			(at 435.864 291.846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22630,7 +23039,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 430.8348 287.02 0)
+			(at 432.1048 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22641,7 +23050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 431.8 290.83 0)
+			(at 433.07 290.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22652,7 +23061,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 431.8 290.83 0)
+			(at 433.07 290.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22679,7 +23088,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 356.87 256.54 90)
+		(at 350.52 256.54 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22690,7 +23099,7 @@
 		(fields_autoplaced yes)
 		(uuid "78d8dfc5-8a19-42f2-ad47-77b9cc3a50ef")
 		(property "Reference" "FB3"
-			(at 356.8192 248.92 90)
+			(at 350.4692 248.92 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22700,7 +23109,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 356.8192 251.46 90)
+			(at 350.4692 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22710,7 +23119,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 356.87 258.318 90)
+			(at 350.52 258.318 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22721,7 +23130,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 256.54 0)
+			(at 350.52 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22732,7 +23141,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 356.87 256.54 0)
+			(at 350.52 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23405,7 +23814,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 445.77 226.06 180)
+		(at 449.58 226.06 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23416,7 +23825,7 @@
 		(fields_autoplaced yes)
 		(uuid "81155b89-e467-4365-be68-10d9d5e11a9f")
 		(property "Reference" "CD19"
-			(at 449.58 224.7899 0)
+			(at 453.39 224.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23427,7 +23836,7 @@
 			)
 		)
 		(property "Value" "4.7p"
-			(at 449.58 227.3299 0)
+			(at 453.39 227.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23438,7 +23847,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 444.8048 222.25 0)
+			(at 448.6148 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23449,7 +23858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 445.77 226.06 0)
+			(at 449.58 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23460,7 +23869,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 445.77 226.06 0)
+			(at 449.58 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28685,7 +29094,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 424.18 256.54 90)
+		(at 421.64 256.54 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28696,7 +29105,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc5a83d7-6b2b-41a4-bd8f-a858368f8274")
 		(property "Reference" "FB7"
-			(at 424.1292 248.92 90)
+			(at 421.5892 248.92 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28706,7 +29115,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 424.1292 251.46 90)
+			(at 421.5892 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28716,7 +29125,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 424.18 258.318 90)
+			(at 421.64 258.318 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28727,7 +29136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 424.18 256.54 0)
+			(at 421.64 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28738,7 +29147,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 424.18 256.54 0)
+			(at 421.64 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30353,6 +30762,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 370.84 336.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df9579fc-495b-451f-ab73-7974ccc46d1e")
+		(property "Reference" "RDM7"
+			(at 370.84 330.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 370.84 332.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 370.84 338.328 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 370.84 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 370.84 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cfd1a91d-1d6a-4fe4-8736-91498ca09ccb")
+		)
+		(pin "2"
+			(uuid "2d1008de-a082-4e3d-90ea-dd5dc2b7a752")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 365.76 227.33 180)
 		(unit 1)
@@ -30678,6 +31167,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 360.68 223.52 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e493f077-7a00-41c1-af85-5c64afd35d90")
+		(property "Reference" "RDM1"
+			(at 360.68 217.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 360.68 219.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 360.68 225.298 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 360.68 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 360.68 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2de35751-d385-4dd3-a99c-2e8ef2069991")
+		)
+		(pin "2"
+			(uuid "e3cc5839-113e-4ea7-a8c1-32eb1316b9e8")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 142.24 50.8 0)
 		(unit 1)
@@ -30754,6 +31323,86 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "CLDO2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 429.26 287.02 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8ae5ed0-7133-429b-9e54-00f85309587a")
+		(property "Reference" "RDM6"
+			(at 429.26 280.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 429.26 283.21 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 429.26 288.798 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 429.26 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 429.26 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a573fdb-bbed-447e-bdc7-382ca035cff7")
+		)
+		(pin "2"
+			(uuid "90c825d7-dbd4-42c8-8dfc-af800a6363aa")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "RDM6")
 					(unit 1)
 				)
 			)
