@@ -7391,7 +7391,7 @@
 		(uuid "ef1da5b1-809f-49a2-8d95-788f06cc4fbf")
 	)
 	(no_connect
-		(at 551.18 255.27)
+		(at 551.18 252.73)
 		(uuid "f64e56e8-82be-4db1-9834-b8c5972521a8")
 	)
 	(no_connect
@@ -7491,16 +7491,6 @@
 			(type default)
 		)
 		(uuid "038ae00e-3a37-44b6-a1ed-d9abe1c8564c")
-	)
-	(wire
-		(pts
-			(xy 546.1 250.19) (xy 544.83 250.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "044988db-6436-477e-bcac-62060fbb08f9")
 	)
 	(wire
 		(pts
@@ -7891,6 +7881,16 @@
 			(type default)
 		)
 		(uuid "1329c332-efcd-4891-8cff-ee488e7d93e3")
+	)
+	(wire
+		(pts
+			(xy 544.83 234.95) (xy 546.1 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13990a6a-3fbb-487f-a605-03438efd1610")
 	)
 	(wire
 		(pts
@@ -11691,16 +11691,6 @@
 			(type default)
 		)
 		(uuid "ab0174f0-0931-4db6-bd25-66ccaa1965df")
-	)
-	(wire
-		(pts
-			(xy 544.83 250.19) (xy 544.83 256.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac3048c4-dba6-4a59-a3fb-c700d7fa0f51")
 	)
 	(wire
 		(pts
@@ -15983,7 +15973,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 374.9548 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -22359,7 +22349,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 430.8348 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -24466,103 +24456,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic_MountingPin:Conn_01x06_MountingPin")
-		(at 551.18 242.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98e06589-e99c-4263-9d3e-07ed55a625cc")
-		(property "Reference" "J5"
-			(at 553.72 242.9255 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SPIdata"
-			(at 553.72 245.4655 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical"
-			(at 551.18 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 551.18 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 551.18 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "61c470b0-10ec-4394-95fa-6f5a9016c768")
-		)
-		(pin "6"
-			(uuid "82bd1936-999e-486d-975a-4f16be236517")
-		)
-		(pin "4"
-			(uuid "f1048703-53b6-46ac-88a3-316eba357fb8")
-		)
-		(pin "2"
-			(uuid "3b099700-b9ed-4ec3-b88e-dbbb220f2886")
-		)
-		(pin "3"
-			(uuid "6caa9cc4-f150-46c4-9c02-081b0a923874")
-		)
-		(pin "1"
-			(uuid "45338ba4-df91-4e5a-8938-33a94e338199")
-		)
-		(pin "MP"
-			(uuid "a8f0e095-2e93-4b9e-b5ee-78ca85a4aab4")
-		)
-		(instances
-			(project "Qubit Control Board"
-				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 54.61 106.68 0)
 		(unit 1)
@@ -26199,7 +26092,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 374.9548 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -27870,7 +27763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 484.1748 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -29706,7 +29599,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 544.83 256.54 0)
+		(at 544.83 234.95 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29717,7 +29610,7 @@
 		(fields_autoplaced yes)
 		(uuid "da413e3f-5a5b-430f-bb92-074ebb10e109")
 		(property "Reference" "#PWR058"
-			(at 544.83 262.89 0)
+			(at 538.48 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29728,7 +29621,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 544.83 261.62 0)
+			(at 543.56 231.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29738,7 +29631,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 544.83 256.54 0)
+			(at 544.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29749,7 +29642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 544.83 256.54 0)
+			(at 544.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29760,7 +29653,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 544.83 256.54 0)
+			(at 544.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29972,7 +29865,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 432.1048 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -30818,6 +30711,103 @@
 			(project "Qubit Control Board"
 				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
 					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic_MountingPin:Conn_01x06_MountingPin")
+		(at 551.18 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed6d610f-7bb4-458e-978a-ad6b57babe2c")
+		(property "Reference" "J5"
+			(at 553.72 240.3855 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SPIdata"
+			(at 553.72 242.9255 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical"
+			(at 551.18 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 551.18 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 551.18 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "3f8224b1-659a-4d01-a8ba-a9f0504faa1c")
+		)
+		(pin "6"
+			(uuid "58e9e631-182b-49a1-b972-8c525e09b426")
+		)
+		(pin "4"
+			(uuid "dad8dc68-550d-4acb-bfdd-2ba044bd7023")
+		)
+		(pin "2"
+			(uuid "398622d7-5959-4fe7-bf51-985e14e157cd")
+		)
+		(pin "3"
+			(uuid "588d44a6-784f-4197-8a15-7631888c7856")
+		)
+		(pin "1"
+			(uuid "69b1ba64-40c0-4398-836c-c99812f3a2bb")
+		)
+		(pin "MP"
+			(uuid "b953b609-9a63-44e6-9c90-1a9bdd47025f")
+		)
+		(instances
+			(project "Qubit Control Board"
+				(path "/d02a9e30-46b8-444a-9e12-1a93fb154b6d"
+					(reference "J5")
 					(unit 1)
 				)
 			)
