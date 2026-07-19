@@ -6299,12 +6299,6 @@
 		(uuid "040d7820-0613-4940-a722-06dfb96465af")
 	)
 	(junction
-		(at 379.73 294.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "041c3837-5310-4e04-81ab-932129214d60")
-	)
-	(junction
 		(at 509.27 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6495,6 +6489,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35f4b2da-c677-4c11-98f3-31bdf753b3ef")
+	)
+	(junction
+		(at 379.73 294.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36c57afd-f558-44bd-a77e-503247d07883")
 	)
 	(junction
 		(at 128.27 54.61)
@@ -6759,6 +6759,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78bb2694-986a-4700-a2e4-238bef295a53")
+	)
+	(junction
+		(at 392.43 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e26469e-f515-4a88-8a22-5a51edd495f4")
 	)
 	(junction
 		(at 55.88 200.66)
@@ -7920,7 +7926,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 332.74) (xy 356.87 336.55)
+			(xy 347.98 332.74) (xy 347.98 336.55)
 		)
 		(stroke
 			(width 0)
@@ -8450,7 +8456,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 336.55) (xy 405.13 336.55)
+			(xy 400.05 336.55) (xy 403.86 336.55)
 		)
 		(stroke
 			(width 0)
@@ -8507,6 +8513,16 @@
 			(type default)
 		)
 		(uuid "2ae6c3fe-4a06-4663-9a80-56fbf9737b2e")
+	)
+	(wire
+		(pts
+			(xy 360.68 336.55) (xy 367.03 336.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b70a35c-b3ed-46e7-be59-f9f3c9c2ca0a")
 	)
 	(wire
 		(pts
@@ -8620,7 +8636,7 @@
 	)
 	(wire
 		(pts
-			(xy 412.75 336.55) (xy 414.02 336.55)
+			(xy 411.48 336.55) (xy 414.02 336.55)
 		)
 		(stroke
 			(width 0)
@@ -9030,7 +9046,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 336.55) (xy 359.41 336.55)
+			(xy 347.98 336.55) (xy 353.06 336.55)
 		)
 		(stroke
 			(width 0)
@@ -9717,6 +9733,16 @@
 			(type default)
 		)
 		(uuid "59e467c9-873e-4728-b93d-b72b4c62bd75")
+	)
+	(wire
+		(pts
+			(xy 392.43 287.02) (xy 403.86 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b7d203e-254e-4d85-b510-5e8e6d46f8fc")
 	)
 	(wire
 		(pts
@@ -11500,7 +11526,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 287.02) (xy 403.86 287.02)
+			(xy 379.73 287.02) (xy 392.43 287.02)
 		)
 		(stroke
 			(width 0)
@@ -13470,7 +13496,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 332.74) (xy 402.59 336.55)
+			(xy 400.05 332.74) (xy 400.05 336.55)
 		)
 		(stroke
 			(width 0)
@@ -18218,7 +18244,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 363.22 336.55 90)
+		(at 356.87 336.55 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18229,7 +18255,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b00e701-adc3-4271-b226-fcd8af3ddb01")
 		(property "Reference" "FB1"
-			(at 363.1692 328.93 90)
+			(at 356.8192 328.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18239,7 +18265,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 363.1692 331.47 90)
+			(at 356.8192 331.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18249,7 +18275,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 363.22 338.328 90)
+			(at 356.87 338.328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18260,7 +18286,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 363.22 336.55 0)
+			(at 356.87 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18271,7 +18297,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 363.22 336.55 0)
+			(at 356.87 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22685,7 +22711,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 408.94 336.55 90)
+		(at 407.67 336.55 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22696,7 +22722,7 @@
 		(fields_autoplaced yes)
 		(uuid "75eaf82e-2fcb-4dff-bfad-e83987972cd4")
 		(property "Reference" "FB5"
-			(at 408.8892 328.93 90)
+			(at 407.6192 328.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22706,7 +22732,7 @@
 			)
 		)
 		(property "Value" "1k @100MHz"
-			(at 408.8892 331.47 90)
+			(at 407.6192 331.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22716,7 +22742,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 408.94 338.328 90)
+			(at 407.67 338.328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22727,7 +22753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 408.94 336.55 0)
+			(at 407.67 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22738,7 +22764,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 408.94 336.55 0)
+			(at 407.67 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29331,7 +29357,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 402.59 332.74 0)
+		(at 400.05 332.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29342,7 +29368,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf14b469-f721-4e4b-8c1d-fc4b9004b0bb")
 		(property "Reference" "#PWR021"
-			(at 402.59 336.55 0)
+			(at 400.05 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29353,7 +29379,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 402.59 327.66 0)
+			(at 400.05 327.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29363,7 +29389,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 402.59 332.74 0)
+			(at 400.05 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29374,7 +29400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 402.59 332.74 0)
+			(at 400.05 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29385,7 +29411,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 402.59 332.74 0)
+			(at 400.05 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33160,7 +33186,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 356.87 332.74 0)
+		(at 347.98 332.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33171,7 +33197,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa2da780-4d19-49af-b9a6-74ef5b5309a8")
 		(property "Reference" "#PWR020"
-			(at 356.87 336.55 0)
+			(at 347.98 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33182,7 +33208,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 356.87 327.66 0)
+			(at 347.98 327.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33192,7 +33218,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 356.87 332.74 0)
+			(at 347.98 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33203,7 +33229,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 332.74 0)
+			(at 347.98 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33214,7 +33240,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 356.87 332.74 0)
+			(at 347.98 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
