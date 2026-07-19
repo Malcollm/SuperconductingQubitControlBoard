@@ -684,7 +684,7 @@
         "uuid": "d02a9e30-46b8-444a-9e12-1a93fb154b6d"
       }
     ],
-    "used_designators": "J5,#FLG1,#PWR11,#PWR20-21,#PWR78-82,FB5-8",
+    "used_designators": "J5,#FLG1,#PWR11,#PWR20-21,#PWR78-82,FB5-8,CD31,CD33,CD35-36",
     "variants": []
   },
   "sheets": [
