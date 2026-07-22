@@ -37419,7 +37419,7 @@
 		(uuid "31f86976-777e-405c-902d-d6f8a84e9fa6")
 	)
 	(via
-		(at 128.7 55.9)
+		(at 128.7 56)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -39779,7 +39779,7 @@
 	(segment
 		(start 127.450063 58.350063)
 		(end 127.9 57.900126)
-		(width 0.1778)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "/RFOUT")
 		(uuid "615d6d76-1f51-4644-91ea-a22ca442d015")
@@ -39787,7 +39787,7 @@
 	(segment
 		(start 127.9 57.900126)
 		(end 127.9 53.275)
-		(width 0.1778)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "/RFOUT")
 		(uuid "c5ae590b-1f78-4be1-917c-a42695815cd2")
@@ -39795,7 +39795,7 @@
 	(segment
 		(start 127.450063 59)
 		(end 127.450063 58.350063)
-		(width 0.1778)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "/RFOUT")
 		(uuid "d4554e88-e7c2-4a97-8e28-d856ee0e1424")
@@ -41256,7 +41256,7 @@
 	(segment
 		(start 135.675 72.5)
 		(end 135.675 61.8)
-		(width 0.2)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "/BBQN")
 		(uuid "e5da5843-31b6-4a44-a8f4-1c3b4849b4f0")
@@ -42502,7 +42502,7 @@
 	(segment
 		(start 127.9 51.725)
 		(end 127.9 47.925)
-		(width 0.1778)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "Net-(CC2-Pad2)")
 		(uuid "dccc36fa-ac69-4c30-a49f-c7d35f996825")
@@ -42526,7 +42526,7 @@
 	(segment
 		(start 127.9 46.275)
 		(end 127.9 39.78)
-		(width 0.1778)
+		(width 0.1707)
 		(layer "F.Cu")
 		(net "Net-(J6-Pin_1)")
 		(uuid "c61af551-ba09-47f6-90f6-787f11fddcdb")
@@ -43880,7 +43880,7 @@
 		(hatch edge 0.5)
 		(priority 7)
 		(connect_pads yes
-			(clearance 0.1707)
+			(clearance 0.2)
 		)
 		(min_thickness 0.25)
 		(fill yes
